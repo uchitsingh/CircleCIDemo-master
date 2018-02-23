@@ -12,7 +12,11 @@ machine:
         TWITTER_SECRET: DUMMY_TWITTER_SECRET
 
 dependencies:
+   run:
+      name: chmod permissions
+      command: chmod +x ./gradlew
     pre:
+
         # Remove any leftover lock from previous builds
         - rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
 
