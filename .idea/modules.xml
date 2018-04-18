@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://C:\Users\uchit\Documents\TheAppExperts\23.2 Continious Integration\CircleCIDemo-master\AsyncTasksExample.iml" filepath="C:\Users\uchit\Documents\TheAppExperts\23.2 Continious Integration\CircleCIDemo-master\AsyncTasksExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/CircleCIDemo-master.iml" filepath="$PROJECT_DIR$/CircleCIDemo-master.iml" />
+      <module fileurl="file://D:\Work\TAE\TheAppExperts\Trainning\23.2 Continious Integration\CircleCIDemo-master\CircleCIDemo-master\CircleCIDemo-master.iml" filepath="D:\Work\TAE\TheAppExperts\Trainning\23.2 Continious Integration\CircleCIDemo-master\CircleCIDemo-master\CircleCIDemo-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://C:\Users\uchit\Documents\TheAppExperts\23.2 Continious Integration\CircleCIDemo-master\app\app.iml" filepath="C:\Users\uchit\Documents\TheAppExperts\23.2 Continious Integration\CircleCIDemo-master\app\app.iml" />
+      <module fileurl="file://D:\Work\TAE\TheAppExperts\Trainning\23.2 Continious Integration\CircleCIDemo-master\CircleCIDemo-master\app\app.iml" filepath="D:\Work\TAE\TheAppExperts\Trainning\23.2 Continious Integration\CircleCIDemo-master\CircleCIDemo-master\app\app.iml" />
     </modules>
   </component>
 </project>
