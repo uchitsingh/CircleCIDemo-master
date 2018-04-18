@@ -1,0 +1,4 @@
+#Wed Apr 18 03:20:57 BST 2018
+base.0=D\:\\Work\\TAE\\TheAppExperts\\Trainning\\23.2 Continious Integration\\CircleCIDemo-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
